@@ -14,8 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('welcome');
-});
-Route::get('/godocs2', function () {
-    return view('godocs2');
+    return view('index');
 });
