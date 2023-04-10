@@ -1,0 +1,130 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .lista1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .lista2 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+  }
+  
+  header {
+    padding: 10px 20px;
+    width: 100%;
+    position: absolute;
+    z-index: 9999;
+  }
+  
+ul {
+padding: 0;
+color: #fff;
+}
+  nav {
+    width: 100%;
+  }
+  .container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+  }
+  
+  .lista1, .lista2 {
+display: flex;
+column-gap: 20px;
+  }
+
+  .boton1 {
+
+    background-color: #fff; border: 2px solid rgb(255, 32, 80);
+    color: rgb(255, 32, 80);
+  }
+
+
+
+  .container-documentarion {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10%;
+  }
+  
+  .col2 {
+    flex-basis: 35%;
+    padding-right: 20px;
+  }
+  
+  .col1 {
+    flex-basis: 65%;
+    height: 100%;
+  }
+  
+  .col2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  .doc {
+    padding: 20px;
+    max-width: 400px;
+  }
+  .forg h2, .forg p {
+    width: 100%;
+  }
+  
+  button {
+    background-color: rgb(255, 32, 80);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+
+  .grid-container2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 20%;
+    margin-right: 20%;
+  }
+
+  .bcol2 {
+
+background-color: #fff;
+
+
+  }
+
+
+.bcol {
+
+  background-color: #f1efef;
+}
