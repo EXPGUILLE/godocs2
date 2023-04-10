@@ -64,33 +64,33 @@
                     </div>
                 </div>
             </section>
-            <section>
+            <section class="faq">
                 <h3>Mostly Asked Questions</h3>
-                <div class="container">
-                    <div class="col">
-                        <div class="row">
+                <div class="container-will">
+                    <div class="column1">
+                        <div class="columna1">
                             <h5>Will updates also be free?</h5>
                             <p>Lorem, link ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus. mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus. mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus.</p>
                         </div>
-                        <div class="row">
+                        <div class="columna1">
                             <h5>Is there any documentation and support?</h5>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus link ut ab quibusdam.</p>
                         </div>    
-                        <div class="row">
+                        <div class="columna1">
                             <h5>What is a product key?</h5>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt</p>
                         </div>    
                     </div>
-                    <div class="col">
-                        <div class="row">
+                    <div class="column2">
+                        <div class="columna2">
                             <h5>Discounts for students and Non Profit Organizations?</h5>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto.</p>
                         </div>
-                        <div class="row">
+                        <div class="columna2">
                             <h5>I need something unique, Can you make it?</h5>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus link ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum?</p>
                         </div>    
-                        <div class="row">
+                        <div class="columna2">
                             <h5>Any refunds?</h5>
                             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto.</p>
                         </div>    
@@ -98,32 +98,32 @@
                 </div>
             </section>
             <section>      
-                <div class="container">  
-                    <div class="col">   
+                <div class="still">  
+                    <div class="still-imagen">   
                         <img src="https://demo.themefisher.com/godocs-bulma/images/cta-illustration.jpg" alt="demo2">                
                     </div>
-                    <div class="col"> 
+                    <div class="col3"> 
                         <h2>Still Didn’t Find Your Answer?</h2>
                         <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
                             <br>
 nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
-                        <a href="#">Submit a Ticket</a>                  
+                        <button type="submit">Submit a Ticket</button>                  
                     </div>
                 </div>  
             </section>       
         <footer>
-            <div class="container">
-                <div class="col">
+            <div class="container-foot">
+                <div class="f1">
                     <ul>
                         <li><a href="#">Changelog</a></li>
                         <li><a href="#">Contact</a></li>
                         <li><a href="#">Search</a></li>
                     </ul>
                 </div>
-                <div class="col">
+                <div class="f2">
                     <img src="https://demo.themefisher.com/godocs-bulma/images/logo.png" alt="logo">
                 </div>
-                <div class="col">
+                <div class="f1">
                     <ul>
                         <li><a href="#">Facebook</a></li>
                         <li><a href="#">Twitter</a></li>
@@ -131,10 +131,10 @@ nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam</p>
                         <li><a href="#">Linkedin</a></li>
                     </ul>
                 </div> 
-                <div class="col">
+            </div>
+                <div class="f4">
                     <p>Copyright © 2020 - Design & Developed by themefisher</p>
                 </div>    
-            </div>    
         </footer>    
         </body>
 </html>
