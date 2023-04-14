@@ -66,33 +66,34 @@
 </div>
 
             </section>
+            <br><br>
             <section class="bcol">
-  <div class="bcol1">
+  <div class="container m-10">
     <h1 class="fw-bold">Bcolumnsse Your Topics</h1>
   </div>
   <div class="grid-container2 d-flex justify-content-center">
     <div class="bcol2 text-center m-5 shadow-lg rounded p-3">
     <a href="#" class="btn btn-danger"><i class="bi bi-speedometer"></i></a>
     <br><br>
-      <h3>Basic Startup</h3>
+      <h3 class="fw-bold">Basic Startup</h3>
       <p>Crast at dolor eget urna<br> varius faucibus tempus in<br> elit dolor sit amet.</p>
     </div>
     <div class="bcol2 text-center m-5 shadow-lg rounded p-3">
     <a href="#" class="btn btn-danger"><i class="bi bi-credit-card"></i></a>
     <br><br>
-      <h3>Account Bill</h3>
+      <h3 class="fw-bold">Account Bill</h3>
       <p>Crast at dolor eget urna<br> varius faucibus tempus in<br> elit dolor sit amet.</p>
     </div>
     <div class="bcol2 text-center m-5 shadow-lg rounded p-3">
     <a href="#" class="btn btn-danger"><i class="bi bi-box-seam"></i></a>
     <br><br>
-      <h3>Our Features</h3>
+      <h3 class="fw-bold">Our Features</h3>
       <p>Crast at dolor eget urna<br> varius faucibus tempus in<br> elit dolor sit amet.</p>
     </div>
     <div class="bcol2 text-center m-5 shadow-lg rounded p-3">
     <a href="#" class="btn btn-danger"><i class="bi bi-gear"></i></a>
     <br><br>
-      <h3>Theme Facility</h3>
+      <h3 class="fw-bold">Theme Facility</h3>
       <p>Crast at dolor eget urna<br> varius faucibus tempus in<br> elit dolor sit amet.</p>
     </div>
   </div>
@@ -100,29 +101,30 @@
 
 <section class="faq">
     
-  <div class="ml-5 text-center">
+  <div class="container ml-5">
     <h2 class="fw-bold">Mostly Asked Questions</h2>
 </div>
+<br>
   <div class="container">
     <div class="row">
       <div class="col-md-6">
         <div class="row">
           <div class="col-md-12">
             <div class="faq-item m-3 shadow-lg rounded p-3">
-              <h5>Will updates also be free?</h5>
+              <h5 class="fw-bold">Will updates also be free?</h5>
               <p>Lorem, link ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus. mollitia delectus ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus. mollitia delectus ut ab quibusdam.
                 Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus. </p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="faq-item m-3 shadow-lg rounded p-3">
-              <h5>Is there any documentation and support?</h5>
+              <h5 class="fw-bold">Is there any documentation and support?</h5>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus link ut ab quibusdam. </p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="faq-item m-3 shadow-lg rounded p-3">
-              <h5>What is a product key?</h5>
+              <h5 class="fw-bold">What is a product key?</h5>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt</p>
             </div>
           </div>
@@ -132,18 +134,18 @@
         <div class="row">
           <div class="col-md-12">
             <div class="faq-item m-3 shadow-lg rounded p-3">
-              <h5>Discounts for students and Non Profit Organizations?</h5>
+              <h5 class="fw-bold">Discounts for students and Non Profit Organizations?</h5>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto. </p>
             </div>
           </div>
           <div class="col-md-12">
             <div class="faq-item m-3 shadow-lg rounded p-3">
-              <h5>I need something unique, Can you make it?</h5>
+              <h5 class="fw-bold">I need something unique, Can you make it?</h5>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto, mollitia delectus link ut ab quibusdam. Magnam cumque numquam tempore reprehenderit illo, unde cum omnis vel sed temporibus, repudiandae impedit nam ad enim porro, qui labore fugiat quod suscipit fuga necessitatibus. Perferendis, ipsum?</p></div>
           </div>
           <div class="col-md-12">
             <div class="faq-item m-3 shadow-lg rounded p-3">
-              <h5>Any refunds?</h5>
+              <h5 class="fw-bold">Any refunds?</h5>
               <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cumque praesentium nisi officiis maiores quia sapiente totam omnis vel sequi corporis ipsa incidunt reprehenderit recusandae maxime perspiciatis iste placeat architecto.</p>
             </div>
           </div>
